@@ -1,0 +1,38 @@
+OBJECTIVES OF THE PROJECT:
+The objective of this project is to let students put their knowledge into use in a pragmatic way and develop a software.
+•	Create programs which use modern software tools
+•	Efficient use of programming while developing projects
+•	Writing accurate codes to deal with problems.
+•	Students will be able to demonstrate their skills in programming and their talents at research conduction.
+
+FUNCTIONS OFFERED BY THE PROGRAM:
+The Grocery Management System is developed to facilitate the work of the grocery storekeeper. 
+This system consists of the methods which can help the storekeeper to improve efficiency and accuracy by providing a technical backend. 
+The owner keeps the record of the transaction on papers but there are many chances of error to occur while maintaining the records.
+A systematic management system is needed to clear out all the possible inadequacies as well as managing the day-to-day transactions and data.
+
+The Project contains following modules: -
+
+1.Database setup: This module is used to setup the database in the system for first time. It will create the tables in backend to store data for – users, sales, purchase and products.
+-> Create database
+-> Display database
+
+2.User Management: This module is used to add / display current user/staff.
+-> Add user
+-> List user
+
+3.Product Management: This module is used to manage product details along with their suppliers and check availability.
+-> Add product
+-> Update record(qty) of an existing product
+-> Delete an existing product
+-> List products
+
+4.Sales Management: This module is used to store the data of daily sales of the store.
+-> Sale Items
+-> List sales made
+
+5.Membership Management: This module is used to manage regular customers those who opt to take membership.
+-> Add member
+-> Show existing members
+
+6.Analysis Management: This module is used to produce an end of day analysis useful for the grocery store manager
